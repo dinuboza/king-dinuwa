@@ -2,45 +2,45 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //---------⚠️ 𝗪𝗮𝗿𝗻𝗶𝗻𝗴 ⚠️-----------\\
-global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
+global.simpleBotname = "DINUWA" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
-global.botname = "Queen Anya" 
+global.botname = "DINUWA USER BOT" 
 global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
 global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-global.headerText = "Anya by Pika" // text for header of menu //        
+global.packname = "Dinuwa💫 вσᡶ " // sticker watermark packname //
+global.author = "DINUWA" // sticker watermark author //
+actiontitle = '࿙⚜Dinuwa⚜࿚' // text who displays on the top of welcome and left message //
+global.headerText = "Dinuwa User Bot by 𝕂𝕀ℕ𝔾 𝔻𝕀ℕ𝕌𝕎𝔸" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             global.ownernumber = ['918811074852']   // Owner number //
-             global.vcardowner = ['918811074852']   // vcard owner number //
-             global.ownername = "3.69_Pika"   // Owner name //
+             global.ownernumber = ['94740804536']   // Owner number //
+             global.vcardowner = ['94740804536']   // vcard owner number //
+             global.ownername = "𝕂𝕀ℕ𝔾 𝔻𝕀ℕ𝕌𝕎𝔸"   // Owner name //
              global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
              global.location = "India, Assam, Dibrugarh"   // Location //
-             global.owner = ['918811074852','917355622763','919673141317']
-             global.ownertag = '918811074852'  // Tag number //
-             global.linkz = "https://wa.me/+918811074852"  // Theme url which will be displayed on whatsapp //
-             global.premium = ['918811074852']  // premium numbers //             
-             global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark //
+             global.owner = ['94740804536']
+             global.ownertag = '94740804536'  // Tag number //
+             global.linkz = "https://wa.me/+94740804536"  // Theme url which will be displayed on whatsapp //
+             global.premium = ['94740804536']  // premium numbers //             
+             global.waterMark = "×͜× King Dinuwa ™ ✓" // Your own watermark //
 
 global.prefa = ['','-']
 
 //--------Random bot name for Info section--------\\
-name16 = "𓄂⍣⃝ 🇦𝚗𝚢𝚊 𓆩×͜×𓆪ꪾ️"
-name17 = "*Λ⃝ͷ🇾Λ 𓆩×͜×𓆪ꪾ*"
-name18 = "*Λ⃝ͷʏΛ 𓆩×͜×𓆪ꪾ*"
+name16 = "𓄂⍣⃝  Dinuwa  𓆩×͜×𓆪ꪾ️"
+name17 = "* Dinuwa  𓆩×͜×𓆪ꪾ*"
+name18 = "* Dinuwa User Bot  𓆩×͜×𓆪ꪾ*"
 
 //--------Random footer message-----------\\
-footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
-footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
+footer1 = `𓄂⍣⃝DINUWA USER BOT 𓆩×͜×𓆪ꪾ `
+footer2 = `DINUWAㅤ𓆩×͜×𓆪ꪾ`
 
 //--------Left message "Nikal msg"--------\\
-nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
-nikalmsg2 = 'Patt se headshot 🔫...Abey dil se bura lagta hai bhai 😂.'
+nikalmsg1 = 'Bye bro ayee enna epa suddh💦 😂'
+nikalmsg2 = 'Bye hode aye enna epa bn💦😂'
 
 //--------Text for document captions--------\\
 global.Menudoccap1 = 'Best friendly Bot for you...'
